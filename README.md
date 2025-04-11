@@ -133,9 +133,3 @@ El sistema interactúa con una API REST para registrar y verificar huellas, así
 - Asegúrate de que el lector de huellas esté correctamente conectado y configurado.
 - Si el sistema no se conecta a WiFi, verifica las credenciales y la señal de tu red.
 - El módulo de huellas soporta hasta 127 huellas registradas.
-
----
-
-## Créditos
-
-Este proyecto fue desarrollado para implementar un sistema de control de acceso seguro y eficiente utilizando tecnologías IoT.
