@@ -18,8 +18,7 @@ Este proyecto implementa un sistema de control de acceso para puertas utilizando
 2. **Lector de huellas dactilares**: Para la autenticación biométrica.
 3. **Teclado matricial 4x4**: Para ingresar comandos manuales.
 4. **Servomotores**: Para controlar la apertura y cierre de la puerta.
-5. **EEPROM**: Para almacenar configuraciones como la clave de la API.
-6. **Conexión WiFi**: Para interactuar con la API.
+5. **Conexión WiFi**: Para interactuar con la API.
 
 ---
 
